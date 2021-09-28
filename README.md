@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - `🌱 I’m currently learning` Kubernetes, Docker and Cybersec stuff
 - `📫 How to reach me:` You can talk to me on discord `lockness Ko#7954`
 
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=lockness-Ko&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lockness-Ko&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
