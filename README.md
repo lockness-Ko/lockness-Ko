@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- `🔭 I’m currently working on` TinyOS and turning off the bluetooth speakers that people use to blast loud annoying music in the shopping centers
+- `🔭 I’m currently working on` WOT (Without a trace) and turning off the bluetooth speakers that people use to blast loud annoying music in the shopping centers
 - `🌱 I’m currently learning` Kubernetes, Docker and Cybersec stuff
 - `📫 How to reach me:` You can talk to me on discord `lockness Ko#7954`
 
