@@ -29,6 +29,8 @@ Here are some ideas to get you started:
  - [TryHackMe](https://tryhackme.com/p/fl0wb1t)
  - [HackTheBox](https://app.hackthebox.eu/users/335400)
 
+## Cool stuff
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=lockness-Ko&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lockness-Ko&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
