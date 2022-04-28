@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - `🔭 I’m currently working on` WOT (Without a trace) and turning off the bluetooth speakers that people use to blast loud annoying music in the shopping centers
-- `🌱 I’m currently learning` Kubernetes, Docker and Cybersec stuff
+- `🌱 I’m currently learning` Quantum computing and opsec/anonymity stuff
 - `📫 How to reach me:` You can talk to me on discord `lockness Ko#7954`
 
 ## Some cool repos:
