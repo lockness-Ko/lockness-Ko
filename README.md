@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - `🌱 I’m currently learning` Quantum computing and opsec/anonymity stuff
 - `📫 How to reach me:` You can talk to me on discord `lockness Ko#7954` or send me an encrypted email! **MY GPG IS AT THE BOTTOM**
 
-## $ My 'best' work
+## ~ My 'best' work
  - [WOT (without a trace)](https://github.com/lockness-Ko/wot), A docker image for hiding yourself using tor as a proxy and disk encryption :)
  - [DECweb](https://github.com/lockness-Ko/DECweb), a decentralized internet running on the ethereum blockchain
  - [Discord Trolling Toolkit](https://github.com/lockness-Ko/troll_toolkit), this is against many aspects of the discord TOS but is fun for trolling :)
