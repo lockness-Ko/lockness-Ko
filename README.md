@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - `🔭 I’m currently working on` WOT (Without a trace) and turning off the bluetooth speakers that people use to blast loud annoying music in the shopping centers
 - `🌱 I’m currently learning` Quantum computing and opsec/anonymity stuff
-- `📫 How to reach me:` You can talk to me on discord `lockness Ko#7954` or send me an encrypted email! **MY GPG IS AT THE BOTTOM**
+- `📫 How to reach me:` You can talk to me on discord `lockness Ko#7954` or send an encrypted email to [locknessko@proton.me](mailto:locknessko@proton.me) **MY GPG IS AT THE BOTTOM**
 
 ## ~ My 'best' work
  - [WOT (without a trace)](https://github.com/lockness-Ko/wot), A docker image for hiding yourself using tor as a proxy and disk encryption :)
