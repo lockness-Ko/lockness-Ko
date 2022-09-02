@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- `🔭 I’m currently working on` WOT (Without a trace) and turning off the bluetooth speakers that people use to blast loud annoying music in the shopping centers
-- `🌱 I’m currently learning` Rust! :crab:
-- `📫 How to reach me:` You can talk to me on discord `lockness Ko#7954` or send an encrypted email to [locknessko@proton.me](mailto:locknessko@proton.me) **MY GPG IS AT THE BOTTOM**
+- `🔭 I’m currently working on` Stuff in private repos (scanning the internet for Cobalt Strike team servers and making sysmon for linux :eyes:)
+- `🌱 I’m currently learning` Rust :crab: and eBPF
+- `📫 How to reach me:` You can talk to me on discord `lockness Ko#7954` or send an encrypted email to [locknessko@proton.me](mailto:locknessko@proton.me) **MY GPG KEY IS AT THE BOTTOM**
 
 ## ~ My 'best' work
+ - [pkt](https://github.com/coraltk/pkt), a stateless firewall with yara like rules in python.
  - [WOT (without a trace)](https://github.com/lockness-Ko/wot), A docker image for hiding yourself using tor as a proxy and disk encryption :)
- - [DECweb](https://github.com/lockness-Ko/DECweb), a decentralized internet running on the ethereum blockchain
- - [Discord Trolling Toolkit](https://github.com/lockness-Ko/troll_toolkit), this is against many aspects of the discord TOS but is fun for trolling :)
  - [My Lab setup](https://github.com/lockness-Ko/my-lab), this is what I run on a new vm/linux computer when first boot it up
 
 ## ? Where to find me
