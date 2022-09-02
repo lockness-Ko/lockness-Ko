@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - `🔭 I’m currently working on` Stuff in private repos (scanning the internet for Cobalt Strike team servers and making sysmon for linux :eyes:)
-- `🌱 I’m currently learning` Rust :crab: and eBPF
+- `🌱 I’m currently learning` Rust :crab: and eBPF :bee:
 - `📫 How to reach me:` You can talk to me on discord `lockness Ko#7954` or send an encrypted email to [locknessko@proton.me](mailto:locknessko@proton.me) **MY GPG KEY IS AT THE BOTTOM**
 
 ## ~ My 'best' work
