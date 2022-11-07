@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- `🔭 I’m currently working on` Stuff in private repos (scanning the internet for Cobalt Strike team servers and making sysmon for linux :eyes:)
-- `🌱 I’m currently learning` Rust :crab: and eBPF :bee:
+- `🔭 I’m currently working on` [Fort](https://github.com/lockness-Ko/fort)! <- A project that was born out of my lack of effort to debug errors!
+- `🌱 I’m currently learning` Svelte (yes I know, javascript 😦)
 - `📫 How to reach me:` You can talk to me on discord `lockness Ko#7954` or send an encrypted email to [locknessko@proton.me](mailto:locknessko@proton.me) **MY GPG KEY IS AT THE BOTTOM**
 
 ## ~ My 'best' work
+ - [fort](https://github.com/lockness-Ko/fort), A minimalistic alternative to nextcloud.
  - [pkt](https://github.com/coraltk/pkt), a stateless firewall with yara like rules in python.
  - [WOT (without a trace)](https://github.com/lockness-Ko/wot), A docker image for hiding yourself using tor as a proxy and disk encryption :)
- - [My Lab setup](https://github.com/lockness-Ko/my-lab), this is what I run on a new vm/linux computer when first boot it up
 
 ## ? Where to find me
  - [TryHackMe](https://tryhackme.com/p/fl0wb1t)
