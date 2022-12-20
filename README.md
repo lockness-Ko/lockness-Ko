@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 ## ! Profile stats
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lockness-Ko)](https://github.com/LordDashMe/github-contribution-stats/)
 [![](https://raw.githubusercontent.com/lockness-Ko/lockness-Ko/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 ## > GPG public key
