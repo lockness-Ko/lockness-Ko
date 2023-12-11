@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - `🔭 I’m currently working on` [powerHELL](https://github.com/lockness-Ko/powerHELL)! <- Oh god oh no I don't like windows!
 - `🌱 I’m currently learning` random stuff in cyber
-- `📫 How to reach me:` You can talk to me on discord `lockness Ko#7954` or send an encrypted email to [contact@locknessko.com](mailto:contact@locknessko.com) **MY GPG KEY IS AT THE BOTTOM**
+- `📫 How to reach me:` You can talk to me on discord `lockness Ko#7954` or send an encrypted email to [contact@locknessko.com](mailto:contact@locknessko.com) **MY GPG KEY IS NOT AT THE BOTTOM**
 
 ## ~ My 'best' work
  - [fort](https://github.com/lockness-Ko/fort), A minimalistic alternative to nextcloud.
